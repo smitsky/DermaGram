@@ -19,6 +19,7 @@ The User-Interface (UI) will be designed using Flask - a microframework for Pyth
 We will be using TensorFlow's image recognition model 'Inception-v3'
 * TensorFlow Intro: https://www.tensorflow.org/tutorials/image_recognition
 * Inception-v3 Github: https://github.com/tensorflow/models/tree/master/official/resnet
-* Inception-v3 Setup Guide: https://github.com/tensorflow/models/tree/master/research/inception
+* Inception-v3 *Official* Setup Guide: https://github.com/tensorflow/models/tree/master/research/inception
   - Skip to "How to Fine-Tune a Pre-Trained Model on a New Task"
   - https://github.com/tensorflow/models/tree/master/research/inception
+* Inception-v3 *Unofficial* Setup Guide: https://medium.com/towards-data-science/deep-learning-with-tensorflow-part-2-image-classification-58fcdffa7b84 
